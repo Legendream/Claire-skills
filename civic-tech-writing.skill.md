@@ -160,16 +160,6 @@ description: |
 每個階段完成後，詢問使用者是否確認繼續下一步。
 ```
 
----
-
-上傳到 GitHub 時，建議放在這個路徑：
-```
-Claire-skills/
-├── civic-tech-writing.skill     ← 已有
-└── civic-tech-writing/
-    └── SKILL.md                 ← 新增這個
-```
-
 然後把 repo 改成公開，之後在 chat 貼這個連結就能用：
 ```
 https://raw.githubusercontent.com/Legendream/Claire-skills/main/civic-tech-writing/SKILL.md
