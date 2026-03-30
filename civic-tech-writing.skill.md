@@ -5,6 +5,8 @@ description: |
   govtech、數位治理、開放資料、參與式民主等主題的文章，或想記錄工作心得與反思時，請使用此技能。
   涵蓋從主題發想、素材查詢、心得整合、大綱規劃、草稿撰寫到最終精修的完整流程。
   只要使用者提到「寫文章」、「寫心得」、「整理案例」、「公民科技」、「工作反思」等，就應主動觸發此技能。
+
+  貼給 Chat: https://raw.githubusercontent.com/Legendream/Claire-skills/main/civic-tech-writing.skill.md
 ---
 
 # 公民科技寫作技能
